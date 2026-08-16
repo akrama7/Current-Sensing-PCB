@@ -24,7 +24,10 @@ As this board handles high continuous currents and inductive loads from ESCs, se
 * **Galvanic Isolation / Creepage:** A strict physical routing keep-out zone was enforced between the high-voltage/high-current domain (Wago terminals and Pins 1-4) and the low-voltage logic domain (Pins 5-8) to prevent high-voltage arcing.
 * **Custom Footprints:** Custom Altium library footprints were designed for PCB-mount Wago spring-clamp terminals to guarantee fail-safe, vibration-proof connections that standard screw terminals cannot provide in mobile robotics.
 
-![Schematic Screenshot]([Insert link to a screenshot of your Altium schematic here])
+<img width="792" height="417" alt="image" src="https://github.com/user-attachments/assets/63dc9be5-1a2c-409c-a169-c66e33c1169a" />
+
+<img width="1097" height="456" alt="image" src="https://github.com/user-attachments/assets/2f690ab7-1b13-4c12-becd-222cb1a5b5c5" />
+
 
 ## Repository Structure
 * `/Altium_Source`: Contains the raw Altium Designer project files (`.PrjPcb`, `.SchDoc`, `.PcbDoc`).

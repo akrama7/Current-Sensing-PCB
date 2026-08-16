@@ -1,6 +1,7 @@
 # RoboSub 30A ESC Current Sensor
 
-![3D Render of PCB]([Insert link to your 3D Altium render image here])
+<img width="1049" height="841" alt="image" src="https://github.com/user-attachments/assets/6af2140a-0680-4e72-9644-64b6490f8242" />
+
 
 ## Overview
 A custom-designed, high-current printed circuit board (PCB) engineered to monitor up to 30 Amps of continuous current draw from Electronic Speed Controllers (ESCs) in an Autonomous Underwater Vehicle (AUV). Designed from schematic capture to fabrication using **Altium Designer**.
@@ -10,7 +11,6 @@ This module utilizes the Allegro ACS712 Hall-effect linear current sensor to pro
 ## Key Specifications
 * **Max Continuous Current:** 30A
 * **Sensing Technology:** Hall-Effect (ACS712)
-* **Galvanic Isolation:** Up to 2.1kV RMS
 * **Input Connectors:** Vibration-resistant Wago Spring-Clamp Terminals
 * **Output:** Scaled analog voltage (proportional to current flow)
 * **PCB Specs:** 2-Layer, 2 oz Copper, 1.6mm FR4
